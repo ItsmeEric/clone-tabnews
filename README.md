@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Aplicacção criada com o objectivo de aprender a programar usando tecnologias actuais do mercado.
+Aplicação criada com o objectivo de aprender a programar usando tecnologias actuais do mercado.
